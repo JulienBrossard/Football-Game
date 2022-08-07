@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 116437843}
   - component: {fileID: 116437845}
   - component: {fileID: 116437844}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Empty
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -211,7 +211,7 @@ GameObject:
   - component: {fileID: 410485888}
   - component: {fileID: 410485887}
   - component: {fileID: 410485886}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Player Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -327,7 +327,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 419488611}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f79ff64ca39551d4c8f8492281b54c83, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -424,7 +424,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 502492202}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f79ff64ca39551d4c8f8492281b54c83, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -639,7 +639,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 981986718}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f79ff64ca39551d4c8f8492281b54c83, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -1092,7 +1092,7 @@ GameObject:
   - component: {fileID: 1656991963}
   - component: {fileID: 1656991965}
   - component: {fileID: 1656991964}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Stamina
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1328,7 +1328,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2110317126}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f79ff64ca39551d4c8f8492281b54c83, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
